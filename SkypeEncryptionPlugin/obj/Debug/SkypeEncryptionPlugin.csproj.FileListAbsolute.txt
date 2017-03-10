@@ -1,0 +1,12 @@
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\bin\Debug\SkypeEncryptionPlugin.exe.config
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\bin\Debug\SkypeEncryptionPlugin.exe
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\bin\Debug\SkypeEncryptionPlugin.pdb
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.Properties.Resources.resources
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.csproj.GenerateResource.Cache
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.exe
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.pdb
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.Settings.resources
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.SkypeEncryption.resources
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.csproj.ResolveComReference.cache
+C:\Users\Andrei_Zui\Source\Repos\eurowings\SkypeEncryptionPlugin\SkypeEncryptionPlugin\obj\Debug\SkypeEncryptionPlugin.csprojResolveAssemblyReference.cache
